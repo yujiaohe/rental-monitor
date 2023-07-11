@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.2
+deep_translator==1.11.4
+pandas==1.5.3
+pretty_html_table==0.9.16
+Requests==2.31.0
