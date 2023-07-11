@@ -2,7 +2,7 @@
 
 This repository contains a rental monitor script that allows you to track and receive email notifications for new rental properties in specific locations. It supports popular rental websites such as Pararius and Funda.
 
- <img src="images/rental.png" width=260px height=120px>
+ <img src="images/rental.png" width=680px height=280px>
 
 ## Features
 
